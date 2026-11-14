@@ -7,7 +7,7 @@
 ## 🔗 Ссылки на решение
 
 *  **Модель офиса:** https://drive.google.com/drive/folders/1ZwbfSFnWkXQMvubVXzOx0tp3Y_t-GGuX?usp=sharing
-*  **Геймдизайн-документ:** 
+*  **Геймдизайн-документ:** https://docs.google.com/document/d/1HM32Ku-KXudOYIWlj4_pJ2zsUyv1ixt-/edit?usp=sharing&ouid=113692168728218230658&rtpof=true&sd=true
 *  **Видео анимации моделей:** https://drive.google.com/file/d/1Zpsnd0NYm5LMqOFDvTpKop5jlqVPwGeT/view?usp=sharing
 
 ---
