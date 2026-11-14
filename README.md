@@ -8,7 +8,7 @@
 
 *  **Модель офиса: ** https://drive.google.com/drive/folders/1ZwbfSFnWkXQMvubVXzOx0tp3Y_t-GGuX?usp=sharing
 *  **Геймдизайн-документ:** 
-*  **Видео анимации моделей: ** 
+*  **Видео анимации моделей: ** https://drive.google.com/file/d/1Zpsnd0NYm5LMqOFDvTpKop5jlqVPwGeT/view?usp=sharing
 
 ---
 
